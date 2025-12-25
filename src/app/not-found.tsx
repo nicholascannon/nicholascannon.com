@@ -1,6 +1,6 @@
-import { SocialHud } from '@/components/social-hud';
-import Link from 'next/link';
 import type { Metadata } from 'next';
+import Link from 'next/link';
+import { SocialHud } from '@/components/social-hud';
 
 export const metadata: Metadata = {
     title: 'Not found!',

@@ -1,5 +1,5 @@
-import { SocialHud } from '@/components/social-hud';
 import type { Metadata } from 'next';
+import { SocialHud } from '@/components/social-hud';
 
 export const metadata: Metadata = {
     title: 'Nicholas Cannon',
