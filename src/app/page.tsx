@@ -1,10 +1,4 @@
-import type { Metadata } from 'next';
 import { SocialHud } from '@/components/social-hud';
-
-export const metadata: Metadata = {
-    title: 'Nicholas Cannon',
-    description: 'Nicholas Cannon software development',
-};
 
 export default function Home() {
     return (
